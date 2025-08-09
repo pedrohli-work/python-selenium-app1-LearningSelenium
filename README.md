@@ -43,7 +43,5 @@ Tests use explicit waits (WebDriverWait) to synchronize and assertions to valida
 Notes
 WebDriver executables, virtual environments (venv), and Python cache files (__pycache__) are ignored via .gitignore.
 
-Large files like test videos or screenshots should be stored externally and linked; avoid pushing them to the repo.
-
 Author
 PedroLi — Software Engineer focused on automation and testing.
