@@ -32,7 +32,7 @@ This project contains automated UI tests developed with Selenium WebDriver and p
 
 5. Run tests with:
     pytest
-
+----------------------------------------------------------------------------------------------------------
 Structure
 conftest.py: Contains pytest fixtures for WebDriver setup and teardown.
 
