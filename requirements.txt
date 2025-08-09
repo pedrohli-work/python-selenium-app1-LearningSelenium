@@ -1,0 +1,5 @@
+selenium>=4.10.0
+pytest>=7.3.0
+pytest-xdist>=3.1.0          # For parallel test execution
+pytest-html>=3.2.0           # To generate HTML reports
+pytest-cov>=4.0.0            # For test coverage reports

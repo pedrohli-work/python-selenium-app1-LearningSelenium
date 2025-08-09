@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Selenium drivers
+drivers/
+drivers/*
+
+# Assets (se arquivos pesados)
+assets/
+
+# Logs or temp files
+*.log
